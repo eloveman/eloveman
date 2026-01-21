@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Elyse!
-👩🏻‍💻 Data Scienist sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Bioinformatics student sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studying for my Master's in Bioinformatics at Northeastern University <br/>
 👩🏻‍🎓 Studied [Data Science] at John Carroll University <br/>
-💭 Currently looking for a job in data analytics, LinkedIn below <br/>
+💭 Currently looking for an internship or co-op in Bioinformatics, LinkedIn below <br/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyse-loveman-1b64a4259/)
 
